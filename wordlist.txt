@@ -1,0 +1,14 @@
+black
+crane
+learn
+quake
+snake
+panel
+moldy
+frond
+plant
+relax
+music
+water
+plank
+phone
