@@ -1,7 +1,7 @@
 import random
 from pathlib import Path
 
-WORDLIST = Path(r"C:\Users\mgibb\VisStu\Python\Codedex\Wordle_Game\wordlist.txt")
+WORDLIST = Path("wordlist.txt")
 words = [
     word.upper()
     for word in WORDLIST.read_text(encoding="utf-8").strip().split("\n")
